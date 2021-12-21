@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working for [Unacast](https://unacast.com)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning how to be a Team Lead
 
 - ⚡ Fun fact **My name spelled with emoji is ⛈🐻**
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Torbjørn</h1>
-<h3 align="center">A passionate frontend developer from Oslo, Norway</h3>
+<h3 align="center">A passionate developer from Oslo, Norway</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=torbjornvatn&label=Profile%20views&color=0e75b6&style=flat" alt="torbjornvatn" /> </p>
 
@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/torbjornvatn" target="blank"><img src="https://img.shields.io/twitter/follow/torbjornvatn?logo=twitter&style=for-the-badge" alt="torbjornvatn" /></a> </p>
 
-- 🔭 I’m currently working for [Unacast](https://unacast.com)
-
-- 🌱 I’m currently learning **how to be a good Team Lead**
+- 🔭 I’m currently working for [Carrot](https://carrot.tech)
 
 - ⚡ Fun fact **My name spelled with emoji is ⛈🐻**
 
